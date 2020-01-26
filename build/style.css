@@ -1,0 +1,16 @@
+.jumbotron {
+	background-color:#00FF00;
+}
+
+.round {
+	border-radius: 20px;
+}
+.largeh1{ 
+	font-size: 300%;
+}
+/*.col-sm-6 {
+	align-self: "center";
+	align-content: "center";
+	border-style: "solid";
+}*/
+
